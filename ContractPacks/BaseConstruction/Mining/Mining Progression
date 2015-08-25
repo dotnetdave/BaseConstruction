@@ -1,0 +1,51 @@
+Mining Progression
+------------------
+
+Mission 1:
+	Launch Scanner for a resource
+		Ore          :   Stock
+		Water        :   MKS
+		MetallicOre	 :   MKS
+		Minerals     :   MKS
+		Substrate    :   MKS
+		Kerbinite    :   Kerbinite
+
+	Launch scanner into kerbin orbit
+	Land scanner near base1
+	
+
+
+Mission 2:
+    Have capacity for mining resource
+	Mine for an amount of resource 
+		Ore          :   1000
+		Water        :   1000
+		MetallicOre	 :   1000
+		Minerals     :   1000
+		Substrate    :   1000
+		Kerbinite    :   1000
+
+
+Mission 3:
+	Convert the resource for production
+		Liquid Fuel  :  Stock
+		Oxidiser     :  Stock
+		Other?       :  MKS
+
+
+Mission 4: 
+ 	Expand the opperation to multiple resources 
+ 		Mine for an amount of resource for 3 other types
+		Ore          :   1000
+		Water        :   1000
+		MetallicOre	 :   1000
+		Minerals     :   1000
+		Substrate    :   1000
+		Kerbinite    :   1000 
+
+Mission 5: 
+	Use the resources to gain an amount of production materials
+
+Mission 6: Land a launch pad at the base
+
+Mission 7: Build a ship using the resources 
